@@ -11,3 +11,7 @@ print('Hello github!')
 print('Hello begin!')
 
 print('Second hello from begin!')
+
+print('Third hello!')
+
+print('Last hello!')
