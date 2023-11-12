@@ -9,3 +9,5 @@ print('Hello world!')
 print('Hello github!')
 
 print('Hello begin!')
+
+print('Second hello from begin!')
